@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d08bedd2.css",
+    "main.js": "/static/js/main.065a4d1b.js",
+    "static/js/453.64d5ed74.chunk.js": "/static/js/453.64d5ed74.chunk.js",
+    "static/media/pizzalogo.png": "/static/media/pizzalogo.fcdc67e6b331cba63735.png",
+    "static/media/backgroundimage.jpeg": "/static/media/backgroundimage.68b0bc4cb708c1389c52.jpeg",
+    "static/media/contact.jpg": "/static/media/contact.4dac076573e0f880abe4.jpg",
+    "static/media/fullloaded.jpeg": "/static/media/fullloaded.39dde8249371e50d3c01.jpeg",
+    "static/media/pepperonipizza.jpeg": "/static/media/pepperonipizza.8e6643cbcac95c4b8146.jpeg",
+    "static/media/veganpizza.jpeg": "/static/media/veganpizza.65d5a48899229afa8528.jpeg",
+    "static/media/BBQchickenpizza.jpeg": "/static/media/BBQchickenpizza.089e134dc0ca641a3036.jpeg",
+    "static/media/about.jpeg": "/static/media/about.a0c98be574cbcc19ed36.jpeg",
+    "static/media/Margheritapizza.jpeg": "/static/media/Margheritapizza.467fcb2ee037c1baf091.jpeg",
+    "static/media/cheseloadedpizza.jpeg": "/static/media/cheseloadedpizza.aa96c56f2fe2fdbc4631.jpeg",
+    "index.html": "/index.html",
+    "main.d08bedd2.css.map": "/static/css/main.d08bedd2.css.map",
+    "main.065a4d1b.js.map": "/static/js/main.065a4d1b.js.map",
+    "453.64d5ed74.chunk.js.map": "/static/js/453.64d5ed74.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d08bedd2.css",
+    "static/js/main.065a4d1b.js"
+  ]
+}

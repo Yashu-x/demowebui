@@ -10,7 +10,7 @@ function Home() {
     <div className='home'>
       <div className='header' >
         <h1>Yashu's Pizzeria</h1>
-        <p>wtf is this pizza</p>
+        <p>wtfuck is this pizza</p>
         <button  onClick={(handlemenuclick)=>navigate("/MENU")} >ODER NOW</button>
       
       </div>
