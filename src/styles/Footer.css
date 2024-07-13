@@ -1,0 +1,23 @@
+.footer{
+    width: auto;
+    height: 130px;
+    flex: 0 0 auto;
+    background-color: #121619;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-top: auto;
+}
+.socialmedia{
+    color: whitesmoke;
+    margin: 0px;
+    font-size: 25px;
+    cursor: pointer;
+    
+    
+}
+.footer p{
+    color: white;
+
+}

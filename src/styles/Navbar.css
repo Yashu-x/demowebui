@@ -1,0 +1,37 @@
+.navbar {
+    display: flex; 
+    align-items: center; 
+    justify-content: space-between; 
+    padding: 0%;
+    background-color:black; 
+    color:whitesmoke;
+    height: 70px; 
+    padding: 0% ; 
+  }
+  
+.navbar a {
+    color: white; 
+    text-decoration:dotted; 
+    margin: auto 1rem;
+    font-weight: bold; 
+}
+.leftside img {
+    width: 100px;  
+    height: 80px;
+    padding: auto;
+    padding-left: 10px;
+    margin: auto; 
+    
+}
+.rightside {
+    left: 100px;
+    margin-left: auto;
+    letter-spacing: 0px;
+  }
+
+@media screen  and (max-width :600px){
+    .navbar.rightside :double-button{
+        display: none;
+    }
+    
+}
